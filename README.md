@@ -1,4 +1,6 @@
-### Hi Pedii 🥶 
+### Hi Pedii 🥶  
+
+![kucing_anggora](/anggora.jpg)
 
 <!--
 **pedii04/pedii04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
